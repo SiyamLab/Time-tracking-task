@@ -1,0 +1,371 @@
+.attribution {font-size: 11px; text-align: center;}
+.attribution a {color: rgb(14, 51, 173);}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(13, 19, 35);
+    
+}
+.box{
+    width: 200px;
+    height: 450px;
+    background-color: rgb(29, 32, 75);
+    display: flex;
+    text-align: center;
+    border-radius: 20px;
+}
+.box2{
+    width: 650px;
+    height: 450px;
+    background-color: rgb(13, 19, 35);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 20px;
+}
+.work{
+    width: 200px;
+    height: 175px;
+    background-color: rgb(225, 139, 100);
+    border-radius: 10px;
+}
+.workinside{
+    width: 200px;
+    height: 170px;
+    background-color: rgb(52, 57, 123);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+}
+.workinside>h1{
+    position: relative;
+    left: 20px;
+}
+.workinside>h6{
+    position: relative;
+    left: 20px;
+}
+.work1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.workimage{
+    position: relative; left: 160px;
+}
+.play{
+    width: 200px;
+    height: 175px;
+    background-color: rgb(86, 194, 230);
+    border-radius: 10px;  
+}
+.playinside{
+    width: 200px;
+    height: 170px;
+    background-color: rgb(29, 32, 75);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+}
+.playinside>h1{
+    position: relative;
+    left: 20px;
+}
+.playinside>h6{
+    position: relative;
+    left: 20px;
+}
+.play1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.playimage{
+    position: relative; left: 160px;
+}
+.study{
+    width: 200px;
+    height: 165px;
+    background-color: rgb(255, 94, 125);
+    border-radius: 10px; 
+}
+.studyinside{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(29, 32, 75);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+}
+
+.studyinside>h1{
+    position: relative;
+    left: 20px;
+}
+.studyinside>h6{
+    position: relative;
+    left: 20px;
+}
+.study1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.studyimage{
+    position: relative; left: 160px;
+}
+
+.exercise{
+    width: 200px;
+    height: 175px;
+    background-color: rgb(75, 207, 131);
+    border-radius: 10px; 
+margin-top: 20px;
+}
+.exerciseinside{
+    width: 200px;
+    height: 185px;
+    background-color: rgb(29, 32, 75);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+}
+.exerciseinside>h1{
+    position: relative;
+    left: 20px;
+}
+.exerciseinside>h6{
+    position: relative;
+    left: 20px;
+}
+.exercise1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.exerciseimage{
+    position: relative; left: 150px;
+}
+.social{
+    width: 200px;
+    height: 160px;
+    background-color: rgb(114, 53, 209);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.socialinside{
+    width: 200px;
+    height: 175px;
+    background-color: rgb(29, 32, 75);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+   
+}
+.socialinside>h1{
+    position: relative;
+    left: 20px;
+}
+.socialinside>h6{
+    position: relative;
+    left: 20px;
+}
+.social1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.socialimage{
+    position: relative; left: 160px;
+}
+.selfcare{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(241, 199, 91);
+    border-radius: 10px; 
+    margin-top: 20px;
+}
+.selfcareinside{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(29, 32, 75);
+    border-radius: 10px;
+    color: rgb(254, 254, 255);
+}
+.selfcareinside>h1{
+    position: relative;
+    left: 20px;
+}
+.selfcareinside>h6{
+    position: relative;
+    left: 20px;
+}
+.selfcare1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.selfcareimage{
+    position: relative; left: 160px;
+}
+.ellipsis6{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.ellipsis5{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.ellipsis4{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.ellipsis3{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.ellipsis2{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.ellipsis1{
+    position: relative;
+    left: 50px;
+    padding-left: 100px;
+}
+.img{
+    border-radius: 50%;
+    position: relative;
+    height: 20px;
+    width: 25px;
+}
+.inside{
+    width: 200px;
+    height: 290px;
+    background-color: rgb(87, 70, 234);
+    color: aliceblue;
+    border-radius: 20px; 
+}
+.inside-data{
+    position: relative; right: 20px;
+}
+.words{
+    padding-right: 40px;
+}
+.words1{
+    padding-right: 40px;  
+}
+.image{
+    position: relative; right: 50px; bottom: -20px;
+    border-image: rgb(239, 241, 255);
+}
+.box-left{
+    width: 20vh;
+    height:350px;
+    background-color: aquamarine;
+    color: azure;
+    border-radius: 30px;
+}
+.period{
+    cursor: pointer; 
+    color: rgb(92, 107, 107);
+}
+.period:hover{
+    color: rgb(248, 248, 248);
+}
+.period2{
+    cursor: pointer; 
+    color: rgb(122, 123, 187);
+}
+.button{
+    background-color: transparent;
+    color: rgb(113, 114, 178);
+    border: none;
+}
+.button:hover{
+    color: rgb(249, 253, 255);
+}
+.button1{
+    background-color: transparent;
+    color: rgb(113, 114, 178);
+    border: none;
+}
+.button1:hover{
+    color: rgb(249, 253, 255);
+}
+.button2{
+    background-color: transparent;
+    color: rgb(113, 114, 178);
+    border: none;
+}
+.button2:hover{
+    color: rgb(249, 253, 255);
+}
+@media screen and (max-width: 500px){
+    body{
+        flex-direction: column;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        
+    }
+    .box2{
+        display: block;
+        line-height: 30px;
+        flex-direction: column;
+        margin-left: 500px;
+        
+    }
+
+    .image{
+        left: 30px;
+        bottom: 80px;
+
+       
+    }
+    .inside{
+        height: 200px;
+        padding:10px;
+  border-radius: 10px;
+  display: flex;
+  margin-right: 50px;
+  align-items: center;
+  gap: 1rem;
+  
+    }
+    .words{
+        position: relative;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 10px;
+        right: 20px;
+        top: 15px;
+        gap: 1rem;
+    }
+    .period.period1{
+        display: flex;
+        padding-left: 50px;
+        margin-left: 30px;
+        gap: 1rem;
+    }
+    .words1{
+        margin-bottom: 50px;
+        gap: 1rem;
+    }
+    section{
+        width: 200vw;
+        height: auto;
+        background-color: bisque;
+        margin-top: 100px;
+        position: relative;
+        right: 80px;
+        display: flex;
+        gap: 1rem;
+    }
+}
+    
+
+
